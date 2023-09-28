@@ -1106,9 +1106,6 @@ Scroll To Top style
     margin-right: 0;
     width: 100%;
   }
-
-  .page-title .title {
-    font-size: 44px;
 }
 
 /*=== List Style Four ===*/
@@ -32703,4 +32700,9 @@ Sidebar
 .team-contact-form textarea {
   background-color: #fff;
   height: 180px;
+}
+@media (min-width: 1400px) {
+  .page-title .title {
+    font-size: 44px;
+  }
 }
