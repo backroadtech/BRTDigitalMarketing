@@ -1106,6 +1106,9 @@ Scroll To Top style
     margin-right: 0;
     width: 100%;
   }
+
+  .page-title .title {
+    font-size: 54px;
 }
 
 /*=== List Style Four ===*/
