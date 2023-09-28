@@ -32701,7 +32701,7 @@ Sidebar
   background-color: #fff;
   height: 180px;
 }
-@media (min-width: 451px) {
+@media (max-width: 451px) {
   .page-title .title {
     font-size: 44px;
   }
