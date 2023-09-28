@@ -32702,7 +32702,7 @@ Sidebar
   height: 180px;
 }
 @media (min-width: 1400px) {
-  .page-title .title {
+  .page-title .title h1 {
     font-size: 44px;
   }
 }
